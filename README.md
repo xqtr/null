@@ -10,3 +10,6 @@ included a text only version for those who are not able to execute the binaries
 
 //update
 an sdl2 version added for issue x004
+
+//01-05-2019
+from now on, null will run under DOS only. use dosbox to execute the binary.
