@@ -7,6 +7,7 @@
     : bbs scene and retro computing e-mag :
     :     https://github.com/xqtr/null    :
     :  telnet // andr01d.zapto.org:9999   :
+    :    website // https://cp737.net     :
     :.....................................:
 ```
 
